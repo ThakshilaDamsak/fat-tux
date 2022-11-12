@@ -1,5 +1,5 @@
 # Fat Tux
-A simple tux logo I made using inkscape.
+A simple tux logo made using inkscape.
 
 ## Fat Tux icon
 
